@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "284627816798",
+    "project_id": "movilac-3ecd0",
+    "storage_bucket": "movilac-3ecd0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284627816798:android:92eab3c2dc112d2ac6bfcf",
+        "android_client_info": {
+          "package_name": "com.example.myloginscreen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284627816798-8n04rp935nspho9re9ek0qrtfp61re8d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myloginscreen",
+            "certificate_hash": "89465b1cdebc7f14500957eeb023f51540c73146"
+          }
+        },
+        {
+          "client_id": "284627816798-utarnm8m5656h43jeir2l454nd6ogeig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjWnfZQn9iqGOw8i9n48CwegVnnp7Fvpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284627816798-utarnm8m5656h43jeir2l454nd6ogeig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
